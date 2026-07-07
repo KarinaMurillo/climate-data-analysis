@@ -74,4 +74,3 @@ Ingeniera de Sistemas | Analista de Datos
 
 ---
 
-## 📁 Estructura del repositorio
