@@ -74,3 +74,24 @@ Ingeniera de Sistemas | Analista de Datos
 
 ---
 
+## 📈 Visualizaciones
+
+### Tendencia de temperatura global
+![Tendencia global](plots/plot_01_tendencia_global.png)
+
+### Anomalía por región
+![Por región](plots/plot_02_calentamiento_regiones.png)
+
+### CO₂ vs Temperatura
+![CO2 vs Temperatura](plots/plot_03_co2_vs_temperatura.png)
+
+### Top 10 países
+![Top 10](plots/plot_04_top10_paises.png)
+
+### Modelo predictivo
+![Modelo](plots/plot_05_modelo_predictivo.png)
+
+### Dashboard Power BI
+![Dashboard Resumen](plots/plot_06_dashboard_resumen.png)
+![Dashboard Regional](plots/plot_07_dashboard_regional.png)
+![Dashboard Predicción](plots/plot_08_dashboard_prediccion.png)
